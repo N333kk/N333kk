@@ -4,6 +4,17 @@
 
 Desarrollador web con Grado Superior en Desarrollo de Aplicaciones Web (DAW). Construyo aplicaciones web completas y mantengo proyectos en producción, desde interfaces y APIs hasta bases de datos, autenticación e integraciones cloud. Busco oportunidades junior de desarrollo web en la Comunidad Valenciana o en remoto.
 
+## Experiencia
+
+**Desarrollador web en prácticas — Micro2e | Producto Sisritel** · Feb 2025 – Jun 2025
+
+Trabajé principalmente en la aplicación web de un sistema de fertirrigación programable conectado a dispositivos propios con firmware en C y comunicación MQTT.
+- Migré el sistema de build de Sprockets y esbuild a Vite, habilitando Hot Module Replacement para módulos React y agilizando el ciclo de desarrollo.
+- Transicioné partes de la interfaz heredada de jQuery a React y realicé mejoras visuales indicadas por el equipo senior.
+- Implementé notificaciones push opcionales para alertas de dispositivos: los avisos MQTT recibidos por el backend mediante WebSocket podían llegar al móvil o al ordenador con la web cerrada.
+- Reemplacé el modelo de avisos por correo diario por notificaciones casi instantáneas.
+- **Stack:** React, jQuery, JavaScript, Vite, Ruby on Rails, PostgreSQL, MQTT, WebSocket, Web Push.
+
 ## Proyectos destacados
 
 ### [Caveman — tienda online](https://store.nekk.it)
@@ -27,10 +38,11 @@ Sintetizador de audio en tiempo real con soporte MIDI.
 
 ## Tecnologías
 
-- **Frontend:** React, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
+- **Frontend:** React, Vue, TypeScript, JavaScript, jQuery, HTML, CSS, Tailwind CSS, Vite
 - **Backend:** Ruby on Rails, Laravel, PHP, Node.js, Express
 - **Bases de datos:** PostgreSQL, MySQL, MongoDB, SQL
-- **Herramientas y servicios:** Git, Docker, Linux, VPS, CI/CD, MQTT, Google Cloud Storage
+- **Integración:** APIs REST, MQTT, WebSocket, notificaciones push
+- **Herramientas y servicios:** Git, Docker, Linux, VPS, CI/CD, Google Cloud Storage
 
 ## Formación e idiomas
 
